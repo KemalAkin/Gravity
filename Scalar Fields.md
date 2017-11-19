@@ -11,6 +11,6 @@ current observed acceleration of the universe. [1]
 
 
 
-### REFERENCES
+### References
 
 [1] Dynamics of Dark Energy, E. J. Copeland, M. Sami, S. Tsujikawa, arXiv: hep-th/0603057v3
